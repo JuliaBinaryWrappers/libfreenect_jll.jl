@@ -1,0 +1,115 @@
+[[libfreenect]]
+arch = "aarch64"
+git-tree-sha1 = "02c57d02e779cd64e8029b468b508ad4f587e2b8"
+libc = "glibc"
+os = "linux"
+
+    [[libfreenect.download]]
+    sha256 = "0fa1b2653c0efe0aa31cd1d33f2504764efa315a95a32e201bf1ecf56356db41"
+    url = "https://github.com/JuliaBinaryWrappers/libfreenect_jll.jl/releases/download/libfreenect-v0.6.1+0/libfreenect.v0.6.1.aarch64-linux-gnu.tar.gz"
+[[libfreenect]]
+arch = "aarch64"
+git-tree-sha1 = "36e63b1477b186f9b3bdbe63ea590c6b72a2fad1"
+libc = "musl"
+os = "linux"
+
+    [[libfreenect.download]]
+    sha256 = "c2b7c3f09f9f23d3a4dd7009ebba19c62cf208988f6b0f64207971ea26e2f45f"
+    url = "https://github.com/JuliaBinaryWrappers/libfreenect_jll.jl/releases/download/libfreenect-v0.6.1+0/libfreenect.v0.6.1.aarch64-linux-musl.tar.gz"
+[[libfreenect]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bab8c1591cb10ee2f8b800a31bd2d4100bea8efc"
+libc = "glibc"
+os = "linux"
+
+    [[libfreenect.download]]
+    sha256 = "fb9ef80e4ac029939a4603acf10669694f0b1d3326239966d5540f0108bea409"
+    url = "https://github.com/JuliaBinaryWrappers/libfreenect_jll.jl/releases/download/libfreenect-v0.6.1+0/libfreenect.v0.6.1.armv7l-linux-gnueabihf.tar.gz"
+[[libfreenect]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "25372857c7ec91fa25e009f0912605cf8604777e"
+libc = "musl"
+os = "linux"
+
+    [[libfreenect.download]]
+    sha256 = "d2d525090971a62ef29e5a5232bcaef569754d7263cf35cd24775a441ffc14ec"
+    url = "https://github.com/JuliaBinaryWrappers/libfreenect_jll.jl/releases/download/libfreenect-v0.6.1+0/libfreenect.v0.6.1.armv7l-linux-musleabihf.tar.gz"
+[[libfreenect]]
+arch = "i686"
+git-tree-sha1 = "164221eeb59d8a888b5210dc235690110978c67c"
+libc = "glibc"
+os = "linux"
+
+    [[libfreenect.download]]
+    sha256 = "771039696df593395249ad1b8062b9e857afebe4a8f7700468a014ac818c2afc"
+    url = "https://github.com/JuliaBinaryWrappers/libfreenect_jll.jl/releases/download/libfreenect-v0.6.1+0/libfreenect.v0.6.1.i686-linux-gnu.tar.gz"
+[[libfreenect]]
+arch = "i686"
+git-tree-sha1 = "aa29462fe20f0429d985c8999a7205cf5d4925fd"
+libc = "musl"
+os = "linux"
+
+    [[libfreenect.download]]
+    sha256 = "cd8d589d037ab7f0a65f037d9dc77c9a89800e6db4a045e92e3ea6f12a6eb31e"
+    url = "https://github.com/JuliaBinaryWrappers/libfreenect_jll.jl/releases/download/libfreenect-v0.6.1+0/libfreenect.v0.6.1.i686-linux-musl.tar.gz"
+[[libfreenect]]
+arch = "i686"
+git-tree-sha1 = "2e6c1d692811e394c7148f5ae0deb1a3e54b2188"
+os = "windows"
+
+    [[libfreenect.download]]
+    sha256 = "0c50f264c14ee1b30daad229a0b467c52b22ae883b416fa3a42f8acaa885d35a"
+    url = "https://github.com/JuliaBinaryWrappers/libfreenect_jll.jl/releases/download/libfreenect-v0.6.1+0/libfreenect.v0.6.1.i686-w64-mingw32.tar.gz"
+[[libfreenect]]
+arch = "powerpc64le"
+git-tree-sha1 = "8585d5bf69c765cd3857cdeeab88d92908af5035"
+libc = "glibc"
+os = "linux"
+
+    [[libfreenect.download]]
+    sha256 = "33badf4eb581b5e8d5a227085337103355d7f4c0978d9f8910033c053306ab27"
+    url = "https://github.com/JuliaBinaryWrappers/libfreenect_jll.jl/releases/download/libfreenect-v0.6.1+0/libfreenect.v0.6.1.powerpc64le-linux-gnu.tar.gz"
+[[libfreenect]]
+arch = "x86_64"
+git-tree-sha1 = "7bc1d2f406909801800f6cf9ef020b591b39579e"
+os = "macos"
+
+    [[libfreenect.download]]
+    sha256 = "9b76d5bb5e40ad2913ad11e8cb21ebf874c9e4a2c192f49b622cdbc0a94a12d6"
+    url = "https://github.com/JuliaBinaryWrappers/libfreenect_jll.jl/releases/download/libfreenect-v0.6.1+0/libfreenect.v0.6.1.x86_64-apple-darwin.tar.gz"
+[[libfreenect]]
+arch = "x86_64"
+git-tree-sha1 = "f26ed9d80368436ff47dad73638b7678fc5480aa"
+libc = "glibc"
+os = "linux"
+
+    [[libfreenect.download]]
+    sha256 = "a27c310b3d70efe8a631df48d7bd6e1eb5d9dbf5a91c03133f5cf59631441c2e"
+    url = "https://github.com/JuliaBinaryWrappers/libfreenect_jll.jl/releases/download/libfreenect-v0.6.1+0/libfreenect.v0.6.1.x86_64-linux-gnu.tar.gz"
+[[libfreenect]]
+arch = "x86_64"
+git-tree-sha1 = "299941a1051befc583ece8b6646f1108f15d4faa"
+libc = "musl"
+os = "linux"
+
+    [[libfreenect.download]]
+    sha256 = "461173e10cbddf5b765f98a47e05a18dc7ca95f3f91809b333a5e9fdad05642e"
+    url = "https://github.com/JuliaBinaryWrappers/libfreenect_jll.jl/releases/download/libfreenect-v0.6.1+0/libfreenect.v0.6.1.x86_64-linux-musl.tar.gz"
+[[libfreenect]]
+arch = "x86_64"
+git-tree-sha1 = "b227d08db51693ee385a4ce9f093675f8ac4fd2d"
+os = "freebsd"
+
+    [[libfreenect.download]]
+    sha256 = "a743b3fbe77c0d508a1cf6e596c2020dcb2d4e00aaaffc6f88c36e5ef91454d3"
+    url = "https://github.com/JuliaBinaryWrappers/libfreenect_jll.jl/releases/download/libfreenect-v0.6.1+0/libfreenect.v0.6.1.x86_64-unknown-freebsd.tar.gz"
+[[libfreenect]]
+arch = "x86_64"
+git-tree-sha1 = "365c90609964d124a85cee7c07b1ddb0c332caae"
+os = "windows"
+
+    [[libfreenect.download]]
+    sha256 = "81005bb8f449642752b3c649048174588fc6731bedee80bce76b860bba1fa32f"
+    url = "https://github.com/JuliaBinaryWrappers/libfreenect_jll.jl/releases/download/libfreenect-v0.6.1+0/libfreenect.v0.6.1.x86_64-w64-mingw32.tar.gz"
