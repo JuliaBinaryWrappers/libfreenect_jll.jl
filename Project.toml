@@ -1,6 +1,6 @@
 name = "libfreenect_jll"
 uuid = "05d52523-c636-5a6c-8a6a-526edab90d71"
-version = "0.6.1+0"
+version = "0.6.1+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
